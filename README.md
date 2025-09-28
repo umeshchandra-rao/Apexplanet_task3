@@ -59,6 +59,3 @@ return [
 - Add authentication before enabling destructive actions in production.
 - Add slug/permalink pages and an API (JSON endpoints) if needed.
 - Add CSRF tokens and validation rules for hardened security.
-
-## License
-MIT
